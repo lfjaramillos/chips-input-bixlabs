@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.takisoft.fix:datetimepicker-1.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/datetimepicker-1.0.6.aar/cd5922c9704b6a3f7fa171f28fb71852/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/datetimepicker-1.0.6.aar/cd5922c9704b6a3f7fa171f28fb71852/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.takisoft.fix/datetimepicker/1.0.6/8f47a62b0b7850691cee6178571344198b420a9e/datetimepicker-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

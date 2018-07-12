@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.takisoft.fix:preference-v7-extras-27.1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-extras-27.1.1.0.aar/ef591fe2f37b61010df8ef753d4cfb8b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-extras-27.1.1.0.aar/ef591fe2f37b61010df8ef753d4cfb8b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.takisoft.fix/preference-v7-extras/27.1.1.0/6818b6e65db2a46a52f5c5dfb122bb921e358f69/preference-v7-extras-27.1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

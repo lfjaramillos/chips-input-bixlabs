@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.takisoft.fix:preference-v7-simplemenu-27.1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-simplemenu-27.1.1.0.aar/c2768047398faf80877582111a1e23f1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-simplemenu-27.1.1.0.aar/c2768047398faf80877582111a1e23f1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.takisoft.fix/preference-v7-simplemenu/27.1.1.0/ad0b85e98593ea5f9b2adb2d2b7486a3c0f6b85c/preference-v7-simplemenu-27.1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

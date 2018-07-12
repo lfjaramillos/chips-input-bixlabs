@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.takisoft.fix:preference-v7-ringtone-27.1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-ringtone-27.1.1.0.aar/4573122f4c47c3b393de871fd095727e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-ringtone-27.1.1.0.aar/4573122f4c47c3b393de871fd095727e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.takisoft.fix/preference-v7-ringtone/27.1.1.0/e9cb27c58314415622945c1e0725af9a2029058a/preference-v7-ringtone-27.1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.takisoft.fix:colorpicker-1.0.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/colorpicker-1.0.4.aar/a4b4c51784e61d93c51d911884c19a10/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/colorpicker-1.0.4.aar/a4b4c51784e61d93c51d911884c19a10/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.takisoft.fix/colorpicker/1.0.4/c5aa426a0b1e99c36c5b10687304d72b5023d9cf/colorpicker-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
